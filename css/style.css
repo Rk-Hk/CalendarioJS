@@ -2,3 +2,8 @@ body{
 	color:#f56267;
 	
 }
+
+h1{
+	color: blueviolet;
+	text-transform: uppercase;
+}
